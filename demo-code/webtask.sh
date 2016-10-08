@@ -1,0 +1,1 @@
+wt create --name SharkDemo --secret PARTICLE_ACCESS_TOKEN=ACCESS_TOKEN --secret PARTICLE_DEVICE_ID=DEVICE_ID webtask.js
