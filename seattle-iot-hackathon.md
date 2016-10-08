@@ -14,15 +14,18 @@
 
 # I'm also a hardware hacker
 
+* Some people actually just call me 'nodebotanist'
 * In-Progress EE degree
 * Tessel open-source committee member
 * I wrote a book on JS Robotics
+
+![left fit](GIFS/no-idea-what-im-doing.gif)
 
 ---
 
 # No one wants to spin up a new web server to handle webhooks on a time crunch.
 
-![inline](GIFS/nopenopenope.gif)
+![right fit](GIFS/nopenopenope.gif)
 
 ---
 
@@ -77,7 +80,7 @@ Install the cli and deploy your code, and voila! A webhook URL
 * Webtask.io (of course)
 * Auth0 
 * Hardware debugging (I brought half a lab with me!)
-* You can even book a time slot https://slotted.co/sea-int-nodebotanist
+* You can even book a time slot at http://nodebotani.st/seattle-iot-hackathon/
 
 ---
 
@@ -92,5 +95,6 @@ Install the cli and deploy your code, and voila! A webhook URL
 * I'm Kas
 * Webtask.io is rad
 * Ask me about that, hardware, or auth!
-* http://seattle.nodebotani.st
-* https://slotted.co/sea-int-nodebotanist for appointments
+* http://nodebotani.st/seattle-iot-hackathon/ for more info and resources
+
+![right fit](GIFS/mine-mine-mine.gif)
